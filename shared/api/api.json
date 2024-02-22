@@ -1,0 +1,392 @@
+[
+	{
+		"id": "1",
+		"name": "Камаз",
+		"driver": "Владислав",
+		"category": "Грузовой",
+		"tel": "+79264931975",
+		"coordinates": {
+			"latitude": 45.035470,
+			"longitude": 38.975313,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "2",
+		"name": "Маз",
+		"driver": "Сергей",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.940367,
+			"longitude": 38.755664,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "3",
+		"name": "Жигули",
+		"driver": "Анатолий",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.260339,
+			"longitude": 38.128175,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "4",
+		"name": "Эвакуатор",
+		"driver": "Иннокентий",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 43.585513,
+			"longitude": 39.722711,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "5",
+		"name": "Манипулятор",
+		"driver": "Артём",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.606618,
+			"longitude": 40.105527,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "6",
+		"name": "Москвич",
+		"driver": "Валерий",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.434628,
+			"longitude": 40.575894,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "7",
+		"name": "Ман",
+		"driver": "Валентин",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 46.073690,
+			"longitude": 40.871160,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "8",
+		"name": "Вольво",
+		"driver": "Алексей",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.723738,
+			"longitude": 37.768630,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "9",
+		"name": "Волга",
+		"driver": "Павел",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.366791,
+			"longitude": 38.211433,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "10",
+		"name": "Бетоновоз",
+		"driver": "Аркадий",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.388690,
+			"longitude": 38.599357,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "11",
+		"name": "Камаз",
+		"driver": "Виталий",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.884838, 
+			"longitude": 39.190555,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "12",
+		"name": "Маз",
+		"driver": "Пётр",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.485677,
+			"longitude": 38.661757,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "13",
+		"name": "Жигули",
+		"driver": "Никита",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 46.641990,
+			"longitude": 39.987104,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "14",
+		"name": "Эвакуатор",
+		"driver": "Михаил",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 46.530470,
+			"longitude": 39.943823,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "15",
+		"name": "Манипулятор",
+		"driver": "Вячеслав",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 47.112524, 
+			"longitude": 39.423539,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "16",
+		"name": "Москвич",
+		"driver": "Константин",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 47.709215,
+			"longitude": 40.215265,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "17",
+		"name": "Ман",
+		"driver": "Владимир",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.485700,
+			"longitude": 38.661768,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "18",
+		"name": "Вольво",
+		"driver": "Борис",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.281984,
+			"longitude": 37.365342,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "19",
+		"name": "Волга",
+		"driver": "Игнат",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.884602,
+			"longitude": 40.588812,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "20",
+		"name": "Бетоновоз",
+		"driver": "Александр",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.296019,
+			"longitude": 40.183432,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "21",
+		"name": "Камаз",
+		"driver": "Иван",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.197926,
+			"longitude": 39.959589,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "22",
+		"name": "Маз",
+		"driver": "Леонид",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 43.679979,
+			"longitude": 40.205502,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "23",
+		"name": "Жигули",
+		"driver": "Матвей",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 43.908470,
+			"longitude": 39.333392,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "24",
+		"name": "Эвакуатор",
+		"driver": "Станислав",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.066077,
+			"longitude": 39.705303,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "25",
+		"name": "Манипулятор",
+		"driver": "Николай",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.634250,
+			"longitude": 39.136405,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "26",
+		"name": "Москвич",
+		"driver": "Степан",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.724621,
+			"longitude": 38.185045,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "27",
+		"name": "Ман",
+		"driver": "Вадим",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 45.019273,
+			"longitude": 40.236332,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "28",
+		"name": "Вольво",
+		"driver": "Кирилл",
+		"category": "Грузовой",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 46.043528,
+			"longitude": 38.177561,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+		{
+		"id": "29",
+		"name": "Волга",
+		"driver": "Кондратий",
+		"category": "Пассажирский",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 46.406678,
+			"longitude": 40.354240,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	},
+			{
+		"id": "30",
+		"name": "Бетоновоз",
+		"driver": "Семён",
+		"category": "Спецтранспорт",
+		"tel": "+79859552315",
+		"coordinates": {
+			"latitude": 44.503006,
+			"longitude": 38.131554,
+			"latitudeDelta": 0.01,
+			"longitudeDelta": 0.01
+		}
+	}
+]

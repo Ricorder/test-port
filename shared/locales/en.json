@@ -1,0 +1,14 @@
+{
+  "vehicles": "Vehicles",
+  "map": "Map",
+  "settings": "Settings",
+  "name-tv": "Vehicle name",
+  "driver-name": "Driver's name",
+  "vehicle-category": "Vehicle category",
+  "telephone": "Telephone",
+  "change-language": "Change language",
+  "all": "All",
+  "cargo": "Cargo",
+  "passenger": "Passenger",
+  "special-transport": "Special transport"
+}

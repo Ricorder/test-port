@@ -1,0 +1,14 @@
+{
+  "vehicles": "Транспортные средства",
+  "map": "Карта",
+  "settings": "Настройки",
+  "name-tv": "Название ТС",
+  "driver-name": "Имя водителя",
+  "vehicle-category": "Категория ТС",
+  "telephone": "Телефон",
+  "change-language": "Изменить язык",
+  "all": "Все",
+  "cargo": "Грузовой",
+  "passenger": "Пассажирский",
+  "special-transport": "Спецтранспорт"
+}
